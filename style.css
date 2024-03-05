@@ -4,6 +4,7 @@
 }
 body{
     background-color: #F7F7F7;
+    cursor: default;
   }
 .c-item{
     height: 480px;
